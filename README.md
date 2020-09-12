@@ -1,2 +1,2 @@
 # CoronaDetection
-Corona Detection through Machine Learning Machine
+Shortlisted for Corona Detection test  through Machine Learning Machine
